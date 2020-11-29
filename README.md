@@ -1,0 +1,7 @@
+hello WOrld!
+wq
+;
+
+:
+exit
+
